@@ -1,4 +1,4 @@
- 💝 namestey , hello, i  am kirti shukla 
+ 💝 namestey , hello
 
  🔭  I’m currently working on my  app development and Problem Solving skills(DSA).
 
