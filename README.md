@@ -12,4 +12,5 @@
 
  🔭 languages i know are:
  c++(advance),python+DSA,php,c,html,css,js,SQL,C,app development android,web development
+
 working on skills to participate and crack Google summer of code 
